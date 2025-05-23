@@ -284,6 +284,7 @@ DEPENDENCIES
   jekyll-get-json
   jekyll-imagemagick
   jekyll-jupyter-notebook
+  jekyll-latex
   jekyll-link-attributes
   jekyll-minifier
   jekyll-paginate-v2
